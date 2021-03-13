@@ -8,13 +8,22 @@ main:
     url: '#about'
     weight: 10
 
-  - name: On-going Projects
-    url: '#projects'
-    weight: 30
-
   - name: Publications
     url: '#featured'
+    weight: 20
+
+  - name: Ongoing Projects
+    url: '#projects'
+    weight: 30
+    
+  - name: Teaching
+    url: '#teaching'
+    weight: 40
+        
+  - name: Employment
+    url: '#experience'
     weight: 50
+
 
 
 # Link to a PDF of your resume/CV from the menu.
