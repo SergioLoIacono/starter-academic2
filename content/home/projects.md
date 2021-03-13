@@ -20,5 +20,5 @@ design:
   view: 2
   flip_alt_rows: false
   background:
-    color: "#eb4444"
+    color: "#000000"
 ---
