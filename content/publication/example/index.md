@@ -1,4 +1,12 @@
 ---
+title: The effect of trusting and trustworthy environments on the provision of
+  public goods
+publication_types:
+  - "2"
+authors:
+  - admin
+  - B.Sonmez
+publication_short: In *ESR*
 abstract: "Trusting and trustworthy environments are argued to promote
   collective action, as people learn to rely on their fellow citizens and
   believe that only few individuals will free ride. To test the causal validity
@@ -17,15 +25,18 @@ abstract: "Trusting and trustworthy environments are argued to promote
   applies in the opposite direction: we are more prone to free ride when we
   learn from the environment to be distrustful or unreliable in our dyadic
   exchanges."
+draft: true
+featured: false
+tags:
+  - Social Trust; Collective Action; Learning Effect; Trusting and Trustworthy
+    Environment
 slides: ""
 url_pdf: ""
-publication_types:
-  - "2"
-authors:
-  - admin
-  - B.Sonmez
-author_notes: []
-publication: In *European Sociological Review*
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+  filename: null
 summary: "Trusting and trustworthy environments are argued to promote collective
   action, as people learn to rely on their fellow citizens and believe that only
   few individuals will free ride. To test the causal validity of this mechanism,
@@ -45,22 +56,12 @@ summary: "Trusting and trustworthy environments are argued to promote collective
   distrustful or unreliable in our dyadic exchanges."
 url_dataset: ""
 url_project: ""
-publication_short: In *ESR*
 url_source: ""
 url_video: ""
-title: The effect of trusting and trustworthy environments on the provision of
-  public goods
+author_notes: []
 doi: https://doi.org/10.1093/esr/jcaa040
-featured: false
-tags:
-  - Social Trust; Collective Action; Learning Effect; Trusting and Trustworthy
-    Environment
+publication: In *European Sociological Review*
 projects: []
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-  filename: null
 date: 2013-07-01T00:00:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
