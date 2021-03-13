@@ -17,7 +17,7 @@ abstract: "Trusting and trustworthy environments are argued to promote
   applies in the opposite direction: we are more prone to free ride when we
   learn from the environment to be distrustful or unreliable in our dyadic
   exchanges."
-slides: example
+slides: ""
 url_pdf: ""
 publication_types:
   - "2"
@@ -26,9 +26,23 @@ authors:
   - B.Sonmez
 author_notes: []
 publication: In *European Sociological Review*
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+summary: "Trusting and trustworthy environments are argued to promote collective
+  action, as people learn to rely on their fellow citizens and believe that only
+  few individuals will free ride. To test the causal validity of this mechanism,
+  we propose an experimental design that allows us to create different trusting
+  and trustworthy conditions simply by (i) manipulating the incentive structure
+  of an iterated binary trust game and (ii) allowing information to flow among
+  participants. Findings indicate that, given a similar distribution of
+  resources among subjects, trusting and trustworthy environments strongly
+  foster the provision of public goods. This outcome is largely driven by a
+  learning effect: subjects transfer what they assimilate during a sequence of
+  dyadic exchanges to their decision to act for the collectivity. In particular,
+  results showed that what we learn from the community has a relevant effect on
+  our ability to overcome the free-rider problem: we are more likely to act for
+  the collectivity when we learn from the community to be trustful or reliable
+  in our one-to-one interactions. The same applies in the opposite direction: we
+  are more prone to free ride when we learn from the environment to be
+  distrustful or unreliable in our dyadic exchanges."
 url_dataset: ""
 url_project: ""
 publication_short: In *ESR*
@@ -36,23 +50,21 @@ url_source: ""
 url_video: ""
 title: The effect of trusting and trustworthy environments on the provision of
   public goods
-doi: ": https://doi.org/10.1093/esr/jcaa040"
+doi: https://doi.org/10.1093/esr/jcaa040
 featured: false
 tags: []
-projects:
-  - example
+projects: []
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-  filename: picture1.png
+  filename: null
 date: 2013-07-01T00:00:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
-
 {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
@@ -60,5 +72,3 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
