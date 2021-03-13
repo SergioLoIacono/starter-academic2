@@ -1,6 +1,6 @@
 ---
-title: The effect of trusting and trustworthy environments on the provision of
-  public goods
+title: Does community social embeddedness promote generalized trust? An
+  experimental test of the spillover effect
 publication_types:
   - "2"
 authors:
