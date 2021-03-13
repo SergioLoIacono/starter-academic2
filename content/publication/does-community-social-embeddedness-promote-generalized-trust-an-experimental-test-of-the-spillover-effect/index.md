@@ -61,4 +61,4 @@ url_code: ""
 ---
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-<div class='altmetric-embed' data-badge-type='donut' data-arxiv-id='1209.4191' data-doi="https://doi.org/10.1016/j.ssresearch.2018.03.001" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<div class='altmetric-embed' data-badge-type='donut' data-arxiv-id='1209.4191' data-badge-details='right' data-doi="https://doi.org/10.1016/j.ssresearch.2018.03.001" data-hide-no-mentions="true" class="altmetric-embed"></div>
