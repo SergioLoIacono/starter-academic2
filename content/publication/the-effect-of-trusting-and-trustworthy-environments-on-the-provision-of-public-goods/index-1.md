@@ -1,6 +1,7 @@
 ---
-title: The effect of trusting and trustworthy environments on the provision of
-  public goods
+title: <div data-badge-details="right" data-badge-type="medium-donut"
+  data-doi="https://doi.org/10.1093/esr/jcaa040" data-hide-no-mentions="true"
+  class="altmetric-embed"></div>
 publication_types:
   - "2"
 authors:
