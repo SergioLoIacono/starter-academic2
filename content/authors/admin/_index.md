@@ -4,8 +4,8 @@ role: Postdoctoral Researcher
 bio: My research interests include social trust, sustainable cooperation, and
   collective action.
 interests:
-  - Trust
-  - Cooperation
+  - Trust and Cooperation
+  - Collective Action
   - Social Networks
   - Institutions
   - Diversity
