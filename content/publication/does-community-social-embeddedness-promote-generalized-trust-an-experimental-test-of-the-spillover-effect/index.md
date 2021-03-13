@@ -61,5 +61,5 @@ url_code: ""
 ---
 
 <script type="text/javascript" src="//cdn.plu.mx/widget-summary.js"></script>
-<a href="https://plu.mx/plum/a/?doi=10.1371%2Fjournal.pone.0197326" data-orientation="vertical" class="plumx-summary" data-site="plum" data-hide-when-empty="true">General discussion of data quality challenges in social media metrics: Extensive comparison of four major altmetric data aggregators</a>
+<a href="https://doi.org/10.1016/j.ssresearch.2018.03.001" data-orientation="vertical" class="plumx-summary" data-site="plum" data-hide-when-empty="true">Does community social embeddedness promote generalized trust? An experimental test of the spillover effect</a>
 
