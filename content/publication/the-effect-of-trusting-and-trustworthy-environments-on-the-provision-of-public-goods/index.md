@@ -31,7 +31,7 @@ tags:
   - Social Trust; Collective Action; Learning Effect; Trusting and Trustworthy
     Environment
 slides: ""
-url_pdf: ""
+url_pdf: "ESR2020.pdf"
 image:
   caption: ""
   focal_point: ""
