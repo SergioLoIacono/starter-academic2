@@ -25,6 +25,6 @@ experience:
 widget_id: teaching
 headless: true
 weight: 40
-title: Teaching
+title: Teaching Experience
 subtitle: null
 ---
