@@ -6,7 +6,7 @@ publication_types:
 authors:
   - admin
   - B.Sonmez
-publication_short: In *ESR*
+publication_short: In *European Sociological Review*
 abstract: "Trusting and trustworthy environments are argued to promote
   collective action, as people learn to rely on their fellow citizens and
   believe that only few individuals will free ride. To test the causal validity
@@ -62,7 +62,7 @@ author_notes: []
 doi: https://doi.org/10.1093/esr/jcaa040
 publication: In *European Sociological Review*
 projects: []
-date: 2021-03-13T16:15:35.792Z
+date: 2020
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
