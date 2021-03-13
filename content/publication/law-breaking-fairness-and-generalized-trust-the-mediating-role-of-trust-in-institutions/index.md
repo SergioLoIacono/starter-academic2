@@ -33,7 +33,7 @@ tags:
   - Learning Effect
   - Trusting and Trustworthy Environments
 slides: ""
-url_pdf: uploads/PONE2019.pdf
+url_pdf: "uploads/pone.2020.pdf"
 image:
   caption: ""
   focal_point: ""
