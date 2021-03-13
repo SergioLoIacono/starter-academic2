@@ -1,71 +1,41 @@
 ---
-# Display name
 title: Sergio Lo Iacono
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
 role: Postdoctoral Researcher
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Utrecht University
-  
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include social trust, sustainable cooperation, and collective action.
-
-# Interests to show in About widget
+bio: My research interests include social trust, sustainable cooperation, and
+  collective action.
 interests:
-- Trust
-- Cooperation
-- Social Networks
-- Institutions
-- Diversity 
-
-# Education to show in About widget
+  - Trust
+  - Cooperation
+  - Social Networks
+  - Institutions
+  - Diversity
+social:
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/SergioLoIacono1
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.it/citations?user=wR20BhQAAAAJ&hl=en
+  - icon: cv
+    icon_pack: ai
+    link: starter-academic2/static/uploads/CV_SLI.pdf
+organizations:
+  - name: Utrecht University
 education:
   courses:
-  - course: PhD in Sociology
-    institution: University of Essex
-    year: 2018
-  - course: MA in Political Science
-    institution: University of Toronto
-    year: 2012
-  - course: BA in International Relations
-    institution: University of Trieste
-    year: 2011
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/SergioLoIacono1
-- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: ai
-  link: https://scholar.google.it/citations?user=wR20BhQAAAAJ&hl=en
-
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# icon: cv
-#  icon_pack: ai
-#  link: starter-academic2/static/uploads/CV_SLI.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+    - course: PhD in Sociology
+      institution: University of Essex
+      year: 2018
+    - course: MA in Political Science
+      institution: University of Toronto
+      year: 2012
+    - course: BA in International Relations
+      institution: University of Trieste
+      year: 2011
 email: ""
-
-# Highlight the author in author lists? (true/false)
+superuser: true
 highlight_name: false
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a postdoctoral researcher in Sociology at Utrecht University. My work mostly investigates how we can build sustainable societies that foster cooperation, while identifying the institutional and environmental settings that can facilitate such an outcome. In my research, I evaluate the role of social networks and ecological factors (e.g., economic inequality and redistribution, sanctioning institutions) in the emergence of trust and pro-sociality, paying particular attention to discriminated minorities and their integration in the society. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_SLI.pdf" "newtab" >}}CV{{< /staticref >}}.
