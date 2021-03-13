@@ -1,15 +1,16 @@
 ---
 draft: false
 active: true
-title: "The competitive advantage of sanctioning institutions revisited: A
-  multi-lab replication of Gürerk et al. (2006)"
+title: "The competitive advantage of sanctioning institutions revisited"
 date: 2021-03-13T18:45:54.451Z
 summary: A multi-lab replication of Gürerk, Irlenbusch and Rockenbach (2006)
-  across 7 European countries.
+  across 7 European countries
 featured: false
 tags:
   - Cooperation
-external_link: https://www.nwo.nl/en/projects/40118015
+  - Institutions
+  - Punishment
+external_link: ""
 image:
   filename: featured
   focal_point: Smart
