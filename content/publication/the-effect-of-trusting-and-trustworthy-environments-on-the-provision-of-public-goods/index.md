@@ -68,5 +68,4 @@ publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
-<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script> 
-<div class='altmetric-embed' data-badge-type='donut' data-doi="https://doi.org/10.1093/esr/jcaa040"></div>
+<div data-badge-details="right" data-badge-type="medium-donut" data-doi="https://doi.org/10.1093/esr/jcaa040" data-hide-no-mentions="true" class="altmetric-embed"></div>
