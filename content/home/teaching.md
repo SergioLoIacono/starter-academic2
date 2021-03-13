@@ -5,7 +5,7 @@ headless: true
 weight: 20
 title: Teaching
 subtitle: ""
-active: false
+active: true
 content:
   page_type: publication
   count: 5
