@@ -1,7 +1,7 @@
 ---
 widget: experience
 headless: true
-weight: 40
+weight: 50
 title: Research Experience
 subtitle: null
 date_format: Jan 2006
