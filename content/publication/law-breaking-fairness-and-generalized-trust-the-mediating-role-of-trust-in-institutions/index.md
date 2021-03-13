@@ -5,7 +5,6 @@ publication_types:
   - "2"
 authors:
   - admin
-  - B.Sonmez
 publication_short: In *PLOS One*
 abstract: Institution-centered accounts of generalized trust rely on the idea
   that law-breaking and state’s unfairness lower individuals’ propensity to
@@ -29,9 +28,9 @@ draft: false
 featured: false
 tags:
   - Social Trust
-  - Collective Action
-  - Learning Effect
-  - Trusting and Trustworthy Environments
+  - Institutional Trust
+  - Institutional Fairness
+  - Multilevel Mediation
 slides: ""
 url_pdf: "uploads/pone.2020.pdf"
 image:
