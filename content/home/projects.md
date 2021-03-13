@@ -13,12 +13,12 @@ content:
       tag: "*"
     - name: Deep Learning
       tag: Deep Learning
-    - name: Other
-      tag: Demo
+    - name: Cooperation
+      tag: Cooperation
 design:
   columns: "2"
   view: 2
   flip_alt_rows: false
   background:
-    color: "#000000"
+
 ---
