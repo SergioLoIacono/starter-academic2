@@ -19,4 +19,6 @@ design:
   columns: "2"
   view: 2
   flip_alt_rows: false
+  background:
+    color: "#eb4444"
 ---
