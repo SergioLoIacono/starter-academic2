@@ -63,7 +63,7 @@ doi: https://doi.org/10.1093/esr/jcaa040
 publication: In *European Sociological Review*
 projects: []
 date: 2020-11-01T00:00:00.000Z
-url_slides: ""
+url_slides: "<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script> <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1038/nature.2012.9872"></div>"
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
