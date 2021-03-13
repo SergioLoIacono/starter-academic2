@@ -7,7 +7,8 @@ date: 2021-03-13T18:45:54.451Z
 summary: A multi-lab replication of Gürerk, Irlenbusch and Rockenbach (2006)
   across 7 European countries.
 featured: false
-tags: []
+tags:
+  - Cooperation
 external_link: https://www.nwo.nl/en/projects/40118015
 image:
   filename: featured
