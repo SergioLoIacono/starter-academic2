@@ -21,16 +21,15 @@ interests:
 - Trust
 - Cooperation
 - Social Networks
-- Instutions
+- Institutions
 - Diversity 
-- Reputation
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Sociology
     institution: University of Essex
-    year: 2017/18
+    year: 2018
   - course: MA in Political Science
     institution: University of Toronto
     year: 2012
@@ -45,19 +44,14 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 's.loiacono@uu.nl'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  link: https://twitter.com/SergioLoIacono1
+- icon: `google-scholar`  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://scholar.google.it/citations?user=wR20BhQAAAAJ&hl=en
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
