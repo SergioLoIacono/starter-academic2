@@ -1,17 +1,17 @@
 ---
 draft: false
 active: true
-title: "The competitive advantage of sanctioning institutions revisited"
+title: The competitive advantage of sanctioning institutions revisited
+subtitle: A multi-lab replication of Gürerk, Irlenbusch and Rockenbach (2006)
+  across 7 European countries.
 date: 2021-03-13T18:45:54.451Z
-summary: "A multi-lab replication of Gürerk, Irlenbusch and Rockenbach (2006)
-  across 7 European countries. 
-  With W.Przepiorka, V.Buskens, R.Corten, A.van de Rijt, M.van Assen."
+summary: With W.Przepiorka, V.Buskens, R.Corten, A.van de Rijt, M.van Assen.
 featured: false
 tags:
   - Cooperation
   - Institutions
   - Punishment
-external_link: ""
+external_link: '""'
 image:
   filename: featured
   focal_point: Smart
