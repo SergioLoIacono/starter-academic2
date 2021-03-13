@@ -5,70 +5,36 @@ publication_types:
   - "2"
 authors:
   - admin
-  - B.Sonmez
+  - M. Quaranta
 publication_short: In *European Sociological Review*
-abstract: "Trusting and trustworthy environments are argued to promote
-  collective action, as people learn to rely on their fellow citizens and
-  believe that only few individuals will free ride. To test the causal validity
-  of this mechanism, we propose an experimental design that allows us to create
-  different trusting and trustworthy conditions simply by (i) manipulating the
-  incentive structure of an iterated binary trust game and (ii) allowing
-  information to flow among participants. Findings indicate that, given a
-  similar distribution of resources among subjects, trusting and trustworthy
-  environments strongly foster the provision of public goods. This outcome is
-  largely driven by a learning effect: subjects transfer what they assimilate
-  during a sequence of dyadic exchanges to their decision to act for the
-  collectivity. In particular, results showed that what we learn from the
-  community has a relevant effect on our ability to overcome the free-rider
-  problem: we are more likely to act for the collectivity when we learn from the
-  community to be trustful or reliable in our one-to-one interactions. The same
-  applies in the opposite direction: we are more prone to free ride when we
-  learn from the environment to be distrustful or unreliable in our dyadic
-  exchanges."
+abstract: "This article assesses the association between contextual economic conditions, institutional characteristics and social trust within and between thirty European countries. Although there is broad evidence that economic conditions affect citizens' social and political attitudes and behaviors, the link between the economy and social trust has remained understudied. This article analyzes how social trust varies both over time and across countries, looking at contextual economic conditions, institutional characteristics and their interplay as potential explanatory factors. Using eight rounds of the European Social Survey and hierarchical models, the analysis shows that social trust varies between 2002 and 2017, although large differences can be found across European countries. Over time cross-national variations in trust are only partially accounted for by contextual economic conditions when controlling for institutional characteristics."
 draft: false
 featured: false
 tags:
   - Social Trust
-  - Collective Action
-  - Learning Effect
-  - Trusting and Trustworthy Environments
+  - Economic Conditions
+  - Institutions
+  - Trends Cross-Country Differences.
 slides: ""
-url_pdf: uploads/ESR2020.pdf
+url_pdf: ""
 image:
   caption: ""
   focal_point: ""
   preview_only: false
   filename: null
-summary: "Trusting and trustworthy environments are argued to promote collective
-  action, as people learn to rely on their fellow citizens and believe that only
-  few individuals will free ride. To test the causal validity of this mechanism,
-  we propose an experimental design that allows us to create different trusting
-  and trustworthy conditions simply by (i) manipulating the incentive structure
-  of an iterated binary trust game and (ii) allowing information to flow among
-  participants. Findings indicate that, given a similar distribution of
-  resources among subjects, trusting and trustworthy environments strongly
-  foster the provision of public goods. This outcome is largely driven by a
-  learning effect: subjects transfer what they assimilate during a sequence of
-  dyadic exchanges to their decision to act for the collectivity. In particular,
-  results showed that what we learn from the community has a relevant effect on
-  our ability to overcome the free-rider problem: we are more likely to act for
-  the collectivity when we learn from the community to be trustful or reliable
-  in our one-to-one interactions. The same applies in the opposite direction: we
-  are more prone to free ride when we learn from the environment to be
-  distrustful or unreliable in our dyadic exchanges."
+summary: "This article assesses the association between contextual economic conditions, institutional characteristics and social trust within and between thirty European countries. Although there is broad evidence that economic conditions affect citizens' social and political attitudes and behaviors, the link between the economy and social trust has remained understudied. This article analyzes how social trust varies both over time and across countries, looking at contextual economic conditions, institutional characteristics and their interplay as potential explanatory factors. Using eight rounds of the European Social Survey and hierarchical models, the analysis shows that social trust varies between 2002 and 2017, although large differences can be found across European countries. Over time cross-national variations in trust are only partially accounted for by contextual economic conditions when controlling for institutional characteristics."
 url_dataset: ""
 url_project: ""
 url_source: ""
 url_video: ""
 author_notes: []
-doi: https://doi.org/10.1093/esr/jcaa040
-publication: In *European Sociological Review*
+doi: https://www.rivisteweb.it/doi/10.1424/94245
+publication: In *Polis*
 projects: []
-date: 2021-03-13T18:31:12.372Z
+date: 2019-08-13T18:31:12.372Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
-<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-<div data-badge-details="right" data-badge-type="large-donut" data-doi="https://doi.org/10.1093/esr/jcaa040" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
