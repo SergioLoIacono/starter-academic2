@@ -32,7 +32,7 @@ tags:
   - Institutional Fairness
   - Multilevel Mediation
 slides: ""
-url_pdf: "/content/publication/law-breaking-fairness-and-generalized-trust-the-mediating-role-of-trust-in-institutions/pone_2020.pdf"
+url_pdf: "content/publication/law-breaking-fairness-and-generalized-trust-the-mediating-role-of-trust-in-institutions/pone_2020.pdf"
 image:
   caption: ""
   focal_point: ""
