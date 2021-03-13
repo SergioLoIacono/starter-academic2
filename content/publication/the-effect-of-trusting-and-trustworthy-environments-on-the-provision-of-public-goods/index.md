@@ -31,7 +31,7 @@ tags:
   - Social Trust; Collective Action; Learning Effect; Trusting and Trustworthy
     Environment
 slides: ""
-url_pdf: "ESR2020.pdf"
+url_pdf: "uploads/ESR2020.pdf"
 image:
   caption: ""
   focal_point: ""
@@ -68,4 +68,5 @@ publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 <div data-badge-details="right" data-badge-type="medium-donut" data-doi="https://doi.org/10.1093/esr/jcaa040" data-hide-no-mentions="true" class="altmetric-embed"></div>
