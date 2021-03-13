@@ -25,7 +25,7 @@ abstract: "Trusting and trustworthy environments are argued to promote
   applies in the opposite direction: we are more prone to free ride when we
   learn from the environment to be distrustful or unreliable in our dyadic
   exchanges."
-draft: true
+draft: false
 featured: false
 tags:
   - Social Trust; Collective Action; Learning Effect; Trusting and Trustworthy
