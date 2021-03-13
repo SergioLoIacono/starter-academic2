@@ -32,7 +32,7 @@ tags:
   - Institutional Fairness
   - Multilevel Mediation
 slides: ""
-url_pdf: "uploads/pone.2020.pdf"
+url_pdf: "uploads/pone_2020.pdf"
 image:
   caption: ""
   focal_point: ""
