@@ -52,7 +52,9 @@ title: The effect of trusting and trustworthy environments on the provision of
   public goods
 doi: https://doi.org/10.1093/esr/jcaa040
 featured: false
-tags: []
+tags:
+  - Social Trust; Collective Action; Learning Effect; Trusting and Trustworthy
+    Environment
 projects: []
 image:
   caption: ""
@@ -65,10 +67,3 @@ publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
