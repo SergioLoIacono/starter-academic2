@@ -27,7 +27,7 @@ tags:
   - Density
   - Social cohesion
 slides: ""
-url_pdf: uploads/ESR2020.pdf
+url_pdf: ""
 image:
   caption: ""
   focal_point: ""
