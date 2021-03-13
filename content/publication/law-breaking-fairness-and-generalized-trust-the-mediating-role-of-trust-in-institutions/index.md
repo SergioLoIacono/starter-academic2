@@ -33,7 +33,7 @@ tags:
   - Learning Effect
   - Trusting and Trustworthy Environments
 slides: ""
-url_pdf: uploads/ESR2020.pdf
+url_pdf: uploads/PONE2019.pdf
 image:
   caption: ""
   focal_point: ""
@@ -73,4 +73,4 @@ url_code: ""
 ---
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
-<div data-badge-details="right" data-badge-type="large-donut" data-doi="https://doi.org/10.1093/esr/jcaa040" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<div data-badge-details="right" data-badge-type="large-donut" data-doi="https://doi.org/10.1371/journal.pone.0220160" data-hide-no-mentions="true" class="altmetric-embed"></div>
