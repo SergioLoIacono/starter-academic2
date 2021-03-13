@@ -37,7 +37,7 @@ url_video: ""
 title: The effect of trusting and trustworthy environments on the provision of
   public goods
 doi: ": https://doi.org/10.1093/esr/jcaa040"
-featured: true
+featured: false
 tags: []
 projects:
   - example
@@ -46,9 +46,9 @@ image:
   focal_point: ""
   preview_only: false
   filename: picture1.png
-date: 2013-07-01T00:00:00Z
+date: 2013-07-01T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
