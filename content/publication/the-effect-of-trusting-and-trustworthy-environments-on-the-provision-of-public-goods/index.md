@@ -62,7 +62,7 @@ author_notes: []
 doi: https://doi.org/10.1093/esr/jcaa040
 publication: In *European Sociological Review*
 projects: []
-date: 2020
+date: 2020-11-01T00:00:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
