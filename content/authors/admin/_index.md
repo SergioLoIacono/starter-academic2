@@ -55,7 +55,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: exampleSite/static/media/CV_SLI.pdf
+  link: starter-academic2/static/uploads/CV_SLI.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
