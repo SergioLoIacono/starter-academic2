@@ -14,7 +14,7 @@ organizations:
   
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include social trust, sustainable cooperation, and collective action.
 
 # Interests to show in About widget
 interests:
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 's.loiacono@uu.nl'
+  link: '#s.loiacono@uu.nl'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/SergioLoIacono1
@@ -56,9 +56,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: static/uploads/CV_SLI.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
