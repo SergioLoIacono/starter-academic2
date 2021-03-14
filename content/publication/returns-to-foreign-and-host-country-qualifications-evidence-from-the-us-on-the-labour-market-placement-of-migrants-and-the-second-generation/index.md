@@ -37,7 +37,7 @@ tags:
   - Public Sector
   - Qualifications
 slides: ""
-url_pdf: ""
+url_pdf: "updates/SI_2018.pdf"
 image:
   caption: ""
   focal_point: ""
@@ -75,3 +75,7 @@ publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+<div data-badge-details="right" data-badge-type="large-donut" data-doi="http://dx.doi.org/10.17645/si.v6i3.1509" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+
