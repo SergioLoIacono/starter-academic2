@@ -11,10 +11,24 @@ content:
   filter_button:
     - name: All
       tag: "*"
-    - name: Deep Learning
-      tag: Deep Learning
+    - name: Trust 
+      tag: Trust
     - name: Cooperation
       tag: Cooperation
+    - name: Reputation 
+      tag: Reputation
+    - name: Social Networks 
+      tag: Social Networks
+    - name: Institution
+      tag: Institution
+    - name: Redistribution
+      tag: Redistribution
+    - name: Punishment
+      tag: Punishment
+    - name: Diversity
+      tag: Diversity
+
+
 design:
   columns: "2"
   view: 3
