@@ -12,7 +12,7 @@ tags:
   - Trust
   - Media
   - Partisanship
-external_link: '""'
+external_link: ""
 image:
   filename: featured
   focal_point: Smart
