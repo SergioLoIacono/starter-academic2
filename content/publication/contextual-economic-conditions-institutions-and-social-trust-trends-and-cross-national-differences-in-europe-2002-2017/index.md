@@ -11,7 +11,7 @@ abstract: "This article assesses the association between contextual economic con
 draft: false
 featured: false
 tags:
-  - Social Trust
+  - Trust
   - Wealth
   - Institutions
 slides: ""
