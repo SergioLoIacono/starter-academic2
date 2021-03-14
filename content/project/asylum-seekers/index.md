@@ -1,35 +1,32 @@
 ---
 draft: false
 active: true
-title: Asylum Seekers
-subtitle: A multi-lab replication of Gürerk, Irlenbusch and Rockenbach (2006)
-  across 7 European countries.
-date: 2021-03-14T12:40:41.111Z
-summary: With W. Przepiorka,  M. van Assen, V. Buskens, R. Corten, A. van de Rijt.
+title: "Humanitarian Communication: Gated Information and Sentiments towards
+  Asylum Seekers and Refugees"
+subtitle: Investigating factual information and public preferences for asylum seekers
+date: 2021-03-14T11:50:11.386Z
+summary: With B. Sonmez.
 featured: false
 authors:
-  - With W. Przepiorka
-  - V. Buskens
-  - R. Corten
-  - A. van de Rijt
-  - M. van Assen.
+  - With B.Sonmez.
 tags:
+  - Diversity
   - Cooperation
-  - Institutions
-  - Punishment
+  - Asylum Seekers
+  - Factual Information
 external_link: '""'
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 ---
-We propose to replicate the influential study “The competitive advantage of sanctioning institutions” by Gürerk, Irlenbusch and Rockenbach (2006) published in Science. In this laboratory experiment groups of subjects played a public goods game, commonly used to study the fundamental problem of human cooperation. The key innovation of Gürerk et al. was to let subjects choose the institutional regime under which they wished to play the game. Subjects could choose between a sanctioning institution (SI) allowing them to sanction each other contingent on individual contributions to the public good, or a sanctioning-free institution (SFI). Gürerk et al.’s three main findings were that eventually nearly all subjects had migrated to SI, subjects in SI contributed almost all of their endowment to the public good whereas subjects in SFI contributed almost nothing, and subjects’ payoffs were higher in SI than in SFI. These findings had a transformative impact on the interdisciplinary field of research on cooperation, leading to the belief that sanctioning institutions may evolve readily in human groups, thereby enabling large-scale cooperation. However, these pivotal findings are based on a single, low-powered experiment conducted in one specific location. We seek to replicate this study in eight laboratories across four continents, and for purposes of statistical power increase the number of groups in each lab. The authors of the original study have provided us with all necessary materials, and all labs have confirmed in writing their willingness to host our replications. We will pre-register our multi-lab replication including all materials at Open Science Framework and make our materials and data publicly available. The results of our project will not only test the replicability of the original findings but also establish the generalisability of the effects related to the endogenous emergence of sanctioning institutions across different subject pools.
+This project uses text analysis, lab and survey experiments to examine how factual information on asylum seekers changes the public preferences of native citizens on policies towards asylum seeking and their related pro-social behavior. In doing so, the study reflects upon current theoretical arguments and inconsistent empirical findings concerning information processing. In our research, we specifically test whether factual information provision may ease or backfire unwelcoming attitudes towards asylum seeking policies along partisan lines in the UK. We further test whether factual information provision on asylum seekers improve or worsen pro-social behavior of native population through the moderation of partisanship. Our results from the lab experiment show that factual information provision by a neutral source could be an effective tool to communicate with native population in dealing with public biases, even though their preferred party has unfavorable views towards asylum seekers.
 
 <u>Papers</u> 
 
-The competitive advantage of sanctioning institutions revisited: a multi-lab replication of Gürerk et al. 2006.
-Lo Iacono, S., Przepiorka, W., Buskens, V., Corten, R., van Assen, M., van de Rijt, A. (to be submitted to Science) 
+Does information matter? Asymmetric information and sentiments towards the policies on asylum seekers.
+Sonmez, B., Lo Iacono, S. (submitted to PLOS One) 
 
 <u>Funding</u> 
 
-NWO Replication Studies 401.18.015
+Seedcorn Funding ESSEXLab; BA/Leverhulme Small Research Grants
