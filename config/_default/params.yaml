@@ -3,9 +3,9 @@
 # Documentation: https://wowchemy.com/docs/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-[marketing]
-  google_analytics = ""
-  google_tag_manager = ""
+# Marketing
+  google_analytics: G-JSZWK9RYM2
+  google_tag_manager: G-JSZWK9RYM2
 
 # Appearance
 
