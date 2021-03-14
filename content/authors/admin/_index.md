@@ -15,6 +15,10 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.it/citations?user=wR20BhQAAAAJ&hl=en
+  - icon: osf
+    icon_pack: ai
+    link:  https://osf.io/profile/
+   
 organizations:
   - name: Utrecht University
 education:
