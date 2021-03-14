@@ -30,8 +30,8 @@ content:
 
 
 design:
-  columns: "2"
-  view: 2
+  columns: "1"
+  view: 3
   flip_alt_rows: false
   background:
 
