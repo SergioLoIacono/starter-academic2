@@ -19,14 +19,11 @@ abstract: Children born as a result of wartime sexual violence have not gained a
 draft: false
 featured: false
 tags:
-  - Ethnic
-  - Foreign
-  - Host Country
-  - Labour Market Attainment
+  - Diversity
+  - Labour Market 
   - Minorities
   - Private Sector
   - Public Sector
-  - Qualifications
 slides: ""
 url_pdf: ""
 image:
