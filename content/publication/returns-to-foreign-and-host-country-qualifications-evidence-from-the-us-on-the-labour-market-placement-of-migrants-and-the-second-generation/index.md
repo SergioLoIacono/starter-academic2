@@ -40,24 +40,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: null
-summary: "The integration of migrants in the US economic system is a central
-  concern of policy-makers and scholars. A faster and smoother assimilation of
-  valuable human capital would indeed benefit the labour market, increasing its
-  efficiency. To investigate the integration of minorities and migrants in the
-  US labour market, we employ data from the Current Population Survey from June
-  2016 (the primary source of labour force statistics in the US). We focus on
-  the following ethnic groups: White, Black, Asian, and Other (a combination of
-  Native Americans, Pacific and Mixed). For each ethnicity we consider if
-  respondents are US born, 1st- or 2nd-generation of immigrant descent. Among
-  1st-generation migrants, we further differentiate between recent (in the
-  country for 10 years or less) and long (in the country for more than 10 years)
-  arrivals, as they are likely to have different levels of social capital and
-  knowledge of the job market. We focus on three very relevant labour market
-  outcomes: being employed, being employed in a public sector job and working in
-  a professional or managerial position. Our results indicate better placement
-  of individuals with tertiary degrees, an effect particularly important among
-  women. Minorities in the public sector have made some important gains in terms
-  of occupational attainment parity with the white majority."
+summary: "Published in Social Inclusion."
 url_dataset: ""
 url_project: ""
 url_source: ""
