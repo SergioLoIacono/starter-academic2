@@ -28,14 +28,11 @@ abstract: "The integration of migrants in the US economic system is a central
 draft: false
 featured: false
 tags:
-  - Ethnic
-  - Foreign
-  - Host Country
-  - Labour Market Attainment
+  - Diversity
+  - Labour Market 
   - Minorities
   - Private Sector
   - Public Sector
-  - Qualifications
 slides: ""
 url_pdf: "uploads/SI_2018.pdf"
 image:
