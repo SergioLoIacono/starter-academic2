@@ -38,24 +38,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: null
-summary: Institution-centered accounts of generalized trust rely on the idea
-  that law-breaking and state’s unfairness lower individuals’ propensity to
-  trust fellow citizens because of a weaker confidence in the state. Despite the
-  theoretical relevance attributed to this mediation mechanism, no empirical
-  analysis in the literature has focused on examining its correlational
-  validity. Using data from the European Social Survey (2010), the Quality of
-  Government EU Regional data, and EUROSTAT, this paper assesses the intervening
-  role of institutional trust on the relationship between crime rates, state’s
-  fairness, and generalized trust. Results from a Multilevel SEM (MSEM)
-  mediation analysis indicate that trust in institutions strongly mediates the
-  relationship between violent crimes (i.e. homicide) and generalized trust but
-  not the one between property crimes (i.e. vehicle thefts and robberies) and
-  generalized trust. On the other hand, indicators of fairness (i.e.
-  impartiality and corruption) are all mediated by institutional trust, though
-  impartiality maintains a significant direct effect. Overall, findings support
-  the institutional approach, confirming that the negative relationship between
-  ineffective and unfair institutions and generalized trust passes mostly
-  through people’s lost faith in the state.
+summary: Published in PLOS One.
 url_dataset: ""
 url_project: ""
 url_source: ""
