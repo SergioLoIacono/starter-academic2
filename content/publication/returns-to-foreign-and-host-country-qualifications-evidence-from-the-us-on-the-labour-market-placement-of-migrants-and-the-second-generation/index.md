@@ -5,6 +5,7 @@ publication_types:
   - "2"
 authors:
   - admin
+  - N. Demireva
 publication_short: In *Social Inclusion*
 abstract: "The integration of migrants in the US economic system is a central
   concern of policy-makers and scholars. A faster and smoother assimilation of
