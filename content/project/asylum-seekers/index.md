@@ -1,8 +1,7 @@
 ---
 draft: false
 active: true
-title: "Humanitarian Communication: Gated Information and Sentiments towards
-  Asylum Seekers and Refugees"
+title: "Gated information and sentiments towards asylum seekers"
 subtitle: Investigating factual information and public preferences for asylum seekers
 date: 2021-03-14T11:50:11.386Z
 summary: With B. Sonmez.
