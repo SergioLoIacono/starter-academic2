@@ -2,34 +2,33 @@
 draft: false
 active: true
 title: Inequality, Punishment, and Redistribution
-subtitle: A multi-lab replication of Gürerk, Irlenbusch and Rockenbach (2006)
-  across 7 European countries.
+subtitle: Investigating inequality aversion, wealth, and punishment preferences using experimental and ABM methods.
 date: 2021-03-14T12:55:08.313Z
-summary: With W. Przepiorka,  M. van Assen, V. Buskens, R. Corten, A. van de Rijt.
+summary: With P. Andersson, M. Testori.
 featured: false
 authors:
-  - With W. Przepiorka
-  - V. Buskens
-  - R. Corten
-  - A. van de Rijt
-  - M. van Assen.
+  - With P. Andersson
+  - M. Testori
 tags:
   - Cooperation
   - Institutions
   - Punishment
+  - Wealth
+  - Inequality
+  - ABM
 external_link: '""'
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 ---
-We propose to replicate the influential study “The competitive advantage of sanctioning institutions” by Gürerk, Irlenbusch and Rockenbach (2006) published in Science. In this laboratory experiment groups of subjects played a public goods game, commonly used to study the fundamental problem of human cooperation. The key innovation of Gürerk et al. was to let subjects choose the institutional regime under which they wished to play the game. Subjects could choose between a sanctioning institution (SI) allowing them to sanction each other contingent on individual contributions to the public good, or a sanctioning-free institution (SFI). Gürerk et al.’s three main findings were that eventually nearly all subjects had migrated to SI, subjects in SI contributed almost all of their endowment to the public good whereas subjects in SFI contributed almost nothing, and subjects’ payoffs were higher in SI than in SFI. These findings had a transformative impact on the interdisciplinary field of research on cooperation, leading to the belief that sanctioning institutions may evolve readily in human groups, thereby enabling large-scale cooperation. However, these pivotal findings are based on a single, low-powered experiment conducted in one specific location. We seek to replicate this study in eight laboratories across four continents, and for purposes of statistical power increase the number of groups in each lab. The authors of the original study have provided us with all necessary materials, and all labs have confirmed in writing their willingness to host our replications. We will pre-register our multi-lab replication including all materials at Open Science Framework and make our materials and data publicly available. The results of our project will not only test the replicability of the original findings but also establish the generalisability of the effects related to the endogenous emergence of sanctioning institutions across different subject pools.
+Inequality aversion, or egalitarian motives, explain punishment through individuals' preference for a more equitable distribution of resources. Fehr and Schmidt (1999) define inequity aversion as follows: "people resist inequitable outcomes; i.e., they are willing to give up some material payoff to move in the direction of more equitable outcomes." (p.819). Fowler, Johnson, and Smirnov (2005) argue that innate human preferences for equality explains punishment better than negative emotions toward non-contributors. The key element in this explanation is that the goal of punishment behavior is to produce a more equitable distribution of resources, not to foster cooperation or satisfy negative emotions towards defectors.This argument has received considerable attention in the literature, which shows that egalitarian motives do matter in driving pro-social punishment (Bone & Raihani, 2015; Dawes, Fowler, Johnson, McElreath, & Smirnov, 2007; Dawes et al., 2012; Johnson, Dawes, Fowler, McElreath, & Smirnov, 2009; Leibbrandt & López-Pérez, 2011; Marczyk, 2017; Raihani & McAuliffe, 2012). Building upon such contributions, we investigate whether a redistributive institutional setting can substitute or prevent the implementation of potentially costly peer-punishment. In particular, this study tests if and how egalitarian motives drive pro-social punishment when institutions exogenously create redistribution. Our expectation is that if a more equitable distribution of resources is achieved through redistributive taxation, pro-social punishment (due to egalitarian motives) will decrease since the goal of the punishing behaviors will have already been satisfied. Also, in line with Johnson et al. (2009), we test whether such a moderating effect holds true under conditions of high inequality by manipulating the subjects’ initial endowments (i.e. Gini coefficient).
 
 <u>Papers</u> 
 
-The competitive advantage of sanctioning institutions revisited: a multi-lab replication of Gürerk et al. 2006.
-Lo Iacono, S., Przepiorka, W., Buskens, V., Corten, R., van Assen, M., van de Rijt, A. (to be submitted to Science) 
+Inequality, egalitarian motives, and collective action: an experimental study
+Andersson, P., Lo Iacono, S., Testori, M. (to be submitted to Journal of Experimental Political Science) 
 
-<u>Funding</u> 
+Inequality and Punishment: a New Dawn.
+Lo Iacono, S., Testori, M. (to be submitted to Journal of Artificial Societies and Social Simulation) 
 
-NWO Replication Studies 401.18.015
