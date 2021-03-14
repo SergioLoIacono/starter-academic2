@@ -13,7 +13,7 @@ tags:
   - Cooperation
   - Asylum Seekers
   - Factual Information
-external_link: '""'
+external_link: ""
 image:
   filename: featured
   focal_point: Smart
