@@ -28,7 +28,7 @@ url_project: ""
 url_source: ""
 url_video: ""
 author_notes: []
-doi: doi/10.1424/94245
+doi: 10.1424/94245
 publication: In *Polis*
 projects: []
 date: 2019-08-13T18:31:12.372Z
