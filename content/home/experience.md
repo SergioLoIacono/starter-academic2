@@ -14,7 +14,7 @@ experience:
     date_end: ""
     description: |-2
     
-  - title: Max Weber Fellow 
+  - title: Max Weber Fellow - Postdoctoral Researcher
     company: European University Institute
     company_url: "https://www.eui.eu/ProgrammesAndFellowships/MaxWeberProgramme"
     location: Italy
