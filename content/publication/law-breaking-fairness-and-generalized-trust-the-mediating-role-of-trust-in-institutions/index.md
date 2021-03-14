@@ -28,7 +28,7 @@ draft: false
 featured: false
 tags:
   - Trust
-  - Institutional Fairness
+  - Institutional Quality
   - Institutions
   - Multilevel Mediation
 slides: ""
