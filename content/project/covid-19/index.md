@@ -1,8 +1,7 @@
 ---
 draft: false
 active: true
-title: COVID-19 vulnerability and perceived norm violations predict loss of
-  social trust
+title: COVID-19 vulnerability and perceived norm violations predict loss of social trust
 subtitle: A pre-post study in the Netherlands
 date: 2021-03-14T12:30:21.811Z
 summary: With W. Przepiorka, V. Buskens, R. Corten, A. van de Rijt.
