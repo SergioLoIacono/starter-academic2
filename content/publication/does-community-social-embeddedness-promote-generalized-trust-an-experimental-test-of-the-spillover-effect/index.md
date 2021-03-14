@@ -22,6 +22,7 @@ draft: false
 featured: false
 tags:
   - Trust
+  - Cooperation
   - Spillover effect
   - Social networks
   - Density
