@@ -32,6 +32,7 @@ tags:
   - Cooperation
   - Collective Action 
   - Learning Effect
+  - Reputation
 slides: ""
 url_pdf: "uploads/ESR2020.pdf"
 image:
