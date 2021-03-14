@@ -4,31 +4,28 @@ active: true
 title: "Book: Trust Matters"
 subtitle: An edited collection
 date: 2021-03-14T17:46:42.049Z
-summary: With W. Przepiorka,  M. van Assen, V. Buskens, R. Corten, A. van de Rijt.
+summary: With R. Barradas de Freitas.
 featured: false
 authors:
-  - With W. Przepiorka
-  - V. Buskens
-  - R. Corten
-  - A. van de Rijt
-  - M. van Assen.
+  - With R. Barradas de Freitas.
 tags:
+  - Trust
+  - Reputation 
   - Cooperation
   - Institutions
-  - Punishment
+  - Diversity
+  - Social Networks
 external_link: '""'
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 ---
-We propose to replicate the influential study “The competitive advantage of sanctioning institutions” by Gürerk, Irlenbusch and Rockenbach (2006) published in Science. In this laboratory experiment groups of subjects played a public goods game, commonly used to study the fundamental problem of human cooperation. The key innovation of Gürerk et al. was to let subjects choose the institutional regime under which they wished to play the game. Subjects could choose between a sanctioning institution (SI) allowing them to sanction each other contingent on individual contributions to the public good, or a sanctioning-free institution (SFI). Gürerk et al.’s three main findings were that eventually nearly all subjects had migrated to SI, subjects in SI contributed almost all of their endowment to the public good whereas subjects in SFI contributed almost nothing, and subjects’ payoffs were higher in SI than in SFI. These findings had a transformative impact on the interdisciplinary field of research on cooperation, leading to the belief that sanctioning institutions may evolve readily in human groups, thereby enabling large-scale cooperation. However, these pivotal findings are based on a single, low-powered experiment conducted in one specific location. We seek to replicate this study in eight laboratories across four continents, and for purposes of statistical power increase the number of groups in each lab. The authors of the original study have provided us with all necessary materials, and all labs have confirmed in writing their willingness to host our replications. We will pre-register our multi-lab replication including all materials at Open Science Framework and make our materials and data publicly available. The results of our project will not only test the replicability of the original findings but also establish the generalisability of the effects related to the endogenous emergence of sanctioning institutions across different subject pools.
+The aim of this volume is to examine the role of trust in public life. It seeks to contribute to a more nuanced un-derstanding of certain fundamental concepts in political and legal theory, such as the concepts of authority, power, social practice, the rule of law, and justice by furnishing and sharpening our concepts of trust and trust-worthiness. Trust has been relatively neglected in Anglophone philosophy and in legal theory. Bringing together contributors from across the social, cognitive, historical, and political sciences, this volume seeks to open up inquiries into central concepts in legal theory to new approaches and methodologies. It is an interdisciplinary collection of essays in which the notions of trust, trustworthiness, and distrust are analysed and applied in ad-dressing a variety of problems and sets of questions. This volume aims to place analytic questions about the at-titude of trust and the virtue of trustworthiness at the centre of a cross-disciplinary inquiry about their value.
 
-<u>Papers</u> 
+<u>Book</u> 
 
-The competitive advantage of sanctioning institutions revisited: a multi-lab replication of Gürerk et al. 2006.
-Lo Iacono, S., Przepiorka, W., Buskens, V., Corten, R., van Assen, M., van de Rijt, A. (to be submitted to Science) 
+Trust Matters: Cross-Disciplinary Essays. Hart Publishing
+ Barradas de Freitas, R., Lo Iacono, S.
 
-<u>Funding</u> 
 
-NWO Replication Studies 401.18.015
