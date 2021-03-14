@@ -26,7 +26,7 @@ Inequality aversion, or egalitarian motives, explain punishment through individu
 
 <u>Papers</u> 
 
-Inequality, egalitarian motives, and collective action: an experimental study
+Inequality, egalitarian motives, and collective action: an experimental study.
 Andersson, P., Lo Iacono, S., Testori, M. (to be submitted to Journal of Experimental Political Science) 
 
 Inequality and Punishment: a New Dawn.
