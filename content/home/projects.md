@@ -19,8 +19,8 @@ content:
       tag: Reputation
     - name: Social Networks 
       tag: Social Networks
-    - name: Institution
-      tag: Institution
+    - name: Institutions
+      tag: Institutions
     - name: Diversity
       tag: Diversity
 
