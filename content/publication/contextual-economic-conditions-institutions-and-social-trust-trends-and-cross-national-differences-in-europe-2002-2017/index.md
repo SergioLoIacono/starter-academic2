@@ -12,9 +12,8 @@ draft: false
 featured: false
 tags:
   - Social Trust
-  - Economic Conditions
+  - Wealth
   - Institutions
-  - Trends Cross-Country Differences.
 slides: ""
 url_pdf: ""
 image:
