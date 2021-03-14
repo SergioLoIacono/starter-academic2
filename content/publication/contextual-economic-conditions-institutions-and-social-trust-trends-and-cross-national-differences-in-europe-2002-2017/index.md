@@ -28,7 +28,7 @@ url_project: ""
 url_source: ""
 url_video: ""
 author_notes: []
-doi: https://www.rivisteweb.it/doi/10.1424/94245
+doi: doi/10.1424/94245
 publication: In *Polis*
 projects: []
 date: 2019-08-13T18:31:12.372Z
