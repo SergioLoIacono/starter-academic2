@@ -21,16 +21,12 @@ content:
       tag: Social Networks
     - name: Institution
       tag: Institution
-    - name: Redistribution
-      tag: Redistribution
-    - name: Punishment
-      tag: Punishment
     - name: Diversity
       tag: Diversity
 
 
 design:
-  columns: "1"
+  columns: "2"
   view: 3
   flip_alt_rows: false
   background:
