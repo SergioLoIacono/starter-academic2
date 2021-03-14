@@ -2,22 +2,20 @@
 draft: false
 active: true
 title: Trust and social ties
-subtitle: A multi-lab replication of Gürerk, Irlenbusch and Rockenbach (2006)
-  across 7 European countries.
+subtitle: understanding the role of core discussion networks and family ties in shaping trust towards strangers.
 date: 2021-03-14T13:16:05.529Z
-summary: With W. Przepiorka,  M. van Assen, V. Buskens, R. Corten, A. van de Rijt.
+summary: With J. Ermisch,  D. Gambetta, B. Sonmez.
 featured: false
 authors:
-  - With W. Przepiorka
-  - V. Buskens
-  - R. Corten
-  - A. van de Rijt
-  - M. van Assen.
+  - With J. Ermisch
+  - D. Gambetta
+  - B. Sonmez
 tags:
-  - Cooperation
-  - Institutions
-  - Punishment
-external_link: '""'
+  - Trust
+  - Social Networks
+  - Diversity
+  - Homophily
+external_link: ""
 image:
   filename: featured
   focal_point: Smart
@@ -27,9 +25,10 @@ We propose to replicate the influential study “The competitive advantage of sa
 
 <u>Papers</u> 
 
-The competitive advantage of sanctioning institutions revisited: a multi-lab replication of Gürerk et al. 2006.
-Lo Iacono, S., Przepiorka, W., Buskens, V., Corten, R., van Assen, M., van de Rijt, A. (to be submitted to Science) 
+Core Discussion Networks and Social Trust: a Longitudinal Study (2008–2019).
+Lo Iacono, S., (to be submitted to Social Networks)
 
-<u>Funding</u> 
+Trust and strong family ties: new experimental evidence.
+Ermisch, J., Gambetta, D., Lo Iacono, S., Sonmez, B. (to be submitted to Sociological Science)
 
-NWO Replication Studies 401.18.015
+
