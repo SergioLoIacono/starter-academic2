@@ -34,7 +34,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: null
-summary: Published in Social Science Research
+summary: Published in Social Science Research.
 url_dataset: ""
 url_project: ""
 url_source: ""
