@@ -27,7 +27,8 @@ We propose to replicate the influential study “The competitive advantage of sa
 
 <u>Papers</u> 
 
-The competitive advantage of sanctioning institutions revisited: a multi-lab replication of Gürerk et al. 2006. <br> </br> Lo Iacono, S., Przepiorka, W., Buskens, V., Corten, R., van Assen, M., van de Rijt, A. (to be submitted to Science) 
+The competitive advantage of sanctioning institutions revisited: a multi-lab replication of Gürerk et al. 2006.
+Lo Iacono, S., Przepiorka, W., Buskens, V., Corten, R., van Assen, M., van de Rijt, A. (to be submitted to Science) 
 
 <u>Funding</u> 
 
