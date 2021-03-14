@@ -13,11 +13,7 @@ experience:
     date_start: 2019-08-01
     date_end: ""
     description: |-2
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    
   - title: Max Weber Fellow 
     company: European University Institute
     company_url: "https://www.eui.eu/ProgrammesAndFellowships/MaxWeberProgramme"
