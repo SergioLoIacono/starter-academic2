@@ -1,8 +1,7 @@
 ---
 title: Sergio Lo Iacono
 role: Postdoctoral Researcher
-bio: My research interests include social trust, sustainable cooperation, and
-  collective action.
+bio: ""
 interests:
   - Trust and Cooperation
   - Reputation
