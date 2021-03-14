@@ -6,11 +6,11 @@ title: Research Experience
 subtitle: null
 date_format: Jan 2006
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ""
-    location: California
-    date_start: 2017-01-01
+  - title: Postdoctoral Researcher
+    company: Utrecht University
+    company_url: "https://www.uu.nl/en/organisation/sociology"
+    location: Netherlands
+    date_start: 2019-08-01
     date_end: ""
     description: |-2
         Responsibilities include:
@@ -18,12 +18,11 @@ experience:
         * Analysing
         * Modelling
         * Deploying
-  - title: Professor
-    company: University X
-    company_url: ""
-    location: California
-    date_start: 2016-01-01
-    date_end: 2016-12-31
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Max Weber Fellow 
+    company: European University Institute
+    company_url: "https://www.eui.eu/ProgrammesAndFellowships/MaxWeberProgramme"
+    location: Italy
+    date_start: 2017-09-01
+    date_end: 2019-07-31
 widget_id: Research experience
 ---
