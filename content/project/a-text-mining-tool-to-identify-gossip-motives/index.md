@@ -4,10 +4,10 @@ active: true
 title: A text-mining tool to identify gossip motives
 subtitle: 
 date: 2021-03-14T13:13:00.381Z
-summary: With T.D. Dores Cruz
+summary: With T.D. Dores Cruz.
 featured: false
 authors:
-  - With T.D. Dores Cruz
+  - With T.D. Dores Cruz.
 tags:
   - Reputation
   - Gossip Motives
