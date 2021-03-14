@@ -9,7 +9,7 @@ featured: false
 authors:
   - With J. Ermisch
   - D. Gambetta
-  - B. Sonmez
+  - B. Sonmez.
 tags:
   - Trust
   - Social Networks
