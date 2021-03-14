@@ -8,7 +8,7 @@ summary: With P. Andersson, M. Testori.
 featured: false
 authors:
   - With P. Andersson
-  - M. Testori
+  - M. Testori.
 tags:
   - Cooperation
   - Institutions
