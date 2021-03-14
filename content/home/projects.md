@@ -30,7 +30,7 @@ content:
 
 
 design:
-  columns: "2"
+  columns: "3"
   view: 3
   flip_alt_rows: false
   background:
