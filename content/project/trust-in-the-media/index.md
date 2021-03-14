@@ -7,7 +7,7 @@ date: 2021-03-14T13:18:27.222Z
 summary: With T.D. Dores Cruz.
 featured: false
 authors:
-  - With T.D. Dores Cruz
+  - With T.D. Dores Cruz.
 tags:
   - Trust
   - Media
