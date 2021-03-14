@@ -16,7 +16,7 @@ tags:
   - Wealth
   - Inequality
   - ABM
-external_link: '""'
+external_link: ""
 image:
   filename: featured
   focal_point: Smart
