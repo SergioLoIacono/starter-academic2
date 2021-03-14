@@ -4,10 +4,10 @@ active: true
 title: Gambling outlets and social disorganization
 subtitle: ""
 date: 2021-03-14T13:16:31.993Z
-summary: With N. Demireva
+summary: With N. Demireva.
 featured: false
 authors:
-  - With N. Demireva
+  - With N. Demireva.
 tags:
   - Cooperation
   - Gambling
