@@ -2,7 +2,7 @@
 draft: false
 active: true
 title: Inequality, Punishment, and Redistribution
-subtitle: Investigating inequality aversion, punishment and redistribution preferences using experimental and ABM methods.
+subtitle: Investigating inequality aversion, punishment preferences, and redistribution using experimental and ABM methods.
 date: 2021-03-14T12:55:08.313Z
 summary: With P. Andersson, M. Testori.
 featured: false
