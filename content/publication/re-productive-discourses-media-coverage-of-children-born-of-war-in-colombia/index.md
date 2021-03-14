@@ -30,16 +30,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: null
-summary: Children born as a result of wartime sexual violence have not gained a
-  place in the stories covered by the Colombian media. Based on an extensive
-  content analysis (using the software MAXQDA 12) of newspaper articles
-  published between 1990 and 2015, ethnographic content analysis, and drawing
-  upon feminist critical discourse analysis, this paper explores how information
-  about these children is presented as part of storylines that use the
-  explanatory framework of sexual violence as a weapon of war. In those
-  storylines, children emerge not as independent subjects but as part of social
-  representations of female victims of wartime sexual violence and male
-  perpetrators.
+summary: Published in Bulletin of Latin American Research.
 url_dataset: ""
 url_project: ""
 url_source: ""
