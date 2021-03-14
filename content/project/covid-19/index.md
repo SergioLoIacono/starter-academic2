@@ -16,6 +16,8 @@ authors:
 tags:
   - Trust
   - COVID-19
+  - Vulnerability
+  - Social Norms
 external_link: ""
 image:
   filename: featured
