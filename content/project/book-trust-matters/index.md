@@ -24,7 +24,7 @@ The aim of this volume is to examine the role of trust in public life. It seeks 
 
 <u>Book</u> 
 
-Trust Matters: Cross-Disciplinary Essays. Hart Publishing
+Trust Matters: Cross-Disciplinary Essays. Hart Publishing.
 Barradas de Freitas, R., Lo Iacono, S. (Forthcoming)
 
 
