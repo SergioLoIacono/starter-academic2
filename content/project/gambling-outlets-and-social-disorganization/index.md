@@ -2,34 +2,31 @@
 draft: false
 active: true
 title: Gambling outlets and social disorganization
-subtitle: A multi-lab replication of Gürerk, Irlenbusch and Rockenbach (2006)
-  across 7 European countries.
+subtitle: ""
 date: 2021-03-14T13:16:31.993Z
-summary: With W. Przepiorka,  M. van Assen, V. Buskens, R. Corten, A. van de Rijt.
+summary: With N. Demireva
 featured: false
 authors:
-  - With W. Przepiorka
-  - V. Buskens
-  - R. Corten
-  - A. van de Rijt
-  - M. van Assen.
+  - With N. Demireva
 tags:
   - Cooperation
-  - Institutions
-  - Punishment
-external_link: '""'
+  - Gambling
+  - Wealth
+  - Social cohesion
+  - Crime
+external_link: ""
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 ---
-We propose to replicate the influential study “The competitive advantage of sanctioning institutions” by Gürerk, Irlenbusch and Rockenbach (2006) published in Science. In this laboratory experiment groups of subjects played a public goods game, commonly used to study the fundamental problem of human cooperation. The key innovation of Gürerk et al. was to let subjects choose the institutional regime under which they wished to play the game. Subjects could choose between a sanctioning institution (SI) allowing them to sanction each other contingent on individual contributions to the public good, or a sanctioning-free institution (SFI). Gürerk et al.’s three main findings were that eventually nearly all subjects had migrated to SI, subjects in SI contributed almost all of their endowment to the public good whereas subjects in SFI contributed almost nothing, and subjects’ payoffs were higher in SI than in SFI. These findings had a transformative impact on the interdisciplinary field of research on cooperation, leading to the belief that sanctioning institutions may evolve readily in human groups, thereby enabling large-scale cooperation. However, these pivotal findings are based on a single, low-powered experiment conducted in one specific location. We seek to replicate this study in eight laboratories across four continents, and for purposes of statistical power increase the number of groups in each lab. The authors of the original study have provided us with all necessary materials, and all labs have confirmed in writing their willingness to host our replications. We will pre-register our multi-lab replication including all materials at Open Science Framework and make our materials and data publicly available. The results of our project will not only test the replicability of the original findings but also establish the generalisability of the effects related to the endogenous emergence of sanctioning institutions across different subject pools.
+Drawing on two major criminological theories, routine activities theory and social disorganization theory, this study examines the association of gambling outlets in England and Wales with various crime outcomes. Using data from the ONS, the UK Census, the UK Police Street-level Crime Dataset, and the POI Ordnance Survey1, we analyse the association between gambling outlets and crime events across England and Wales, drawing on the previous literature and expanding on it in several ways. First, we consider various types of crime and distinguish between anti-social behaviour, interpersonal crimes (such as violent crimes and theft), burglaries, property damage and vehicle theft. Second, we explore the possibility of a heterogenous effect dependent upon the level of deprivation and residential stability in an area proxied by the number of homeowners and small business owners in the area. While renters are supposed to be relatively transient, homeowners should provide heightened levels of guardianship in a neighbourhood. Small shop owners can also act to preserve the well-being and the positive character of a local area. Our results have significant policy implications for the well-being of local communities. Gambling outlets are significantly and positively associated with different types of crime even when controlling for other businesses, areas’ wealth, and demographic characteristics. Small businesses provide distinctive shielding effects – in areas of high density of small business owners, there is no significant correlation between crime types and gambling density. 
 
 <u>Papers</u> 
 
-The competitive advantage of sanctioning institutions revisited: a multi-lab replication of Gürerk et al. 2006.
-Lo Iacono, S., Przepiorka, W., Buskens, V., Corten, R., van Assen, M., van de Rijt, A. (to be submitted to Science) 
+Gambling Outlets as Agents of Local Neighbourhood Disorganization: Crime and Local Institutions, the Case of the UK.
+Demireva, N., Lo Iacono, S. (to be submitted to the British Journal of Criminology)
 
 <u>Funding</u> 
 
-NWO Replication Studies 401.18.015
+BA/Leverhulme Small Research Grants
