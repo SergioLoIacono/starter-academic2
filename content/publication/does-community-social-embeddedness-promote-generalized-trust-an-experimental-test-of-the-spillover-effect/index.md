@@ -25,8 +25,8 @@ tags:
   - Cooperation
   - Spillover effect
   - Social networks
-  - Density
   - Social cohesion
+  - Reputation
 slides: ""
 url_pdf: ""
 image:
