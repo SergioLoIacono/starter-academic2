@@ -17,7 +17,7 @@ social:
     link: https://scholar.google.it/citations?user=wR20BhQAAAAJ&hl=en
   - icon: osf
     icon_pack: ai
-    link:  https://osf.io/profile/
+    link:  https://osf.io/gt2xe
    
 organizations:
   - name: Utrecht University
