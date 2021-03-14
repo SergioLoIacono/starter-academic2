@@ -37,7 +37,7 @@ tags:
   - Public Sector
   - Qualifications
 slides: ""
-url_pdf: "updates/SI_2018.pdf"
+url_pdf: "uploads/SI_2018.pdf"
 image:
   caption: ""
   focal_point: ""
