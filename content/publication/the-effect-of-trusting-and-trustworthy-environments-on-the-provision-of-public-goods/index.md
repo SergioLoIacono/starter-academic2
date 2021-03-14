@@ -28,10 +28,10 @@ abstract: "Trusting and trustworthy environments are argued to promote
 draft: false
 featured: false
 tags:
-  - Social Trust
+  - Trust
+  - Cooperation
   - Collective Action 
   - Learning Effect
-  - Trusting and Trustworthy Environments
 slides: ""
 url_pdf: "uploads/ESR2020.pdf"
 image:
