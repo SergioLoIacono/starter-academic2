@@ -27,8 +27,7 @@ abstract: Institution-centered accounts of generalized trust rely on the idea
 draft: false
 featured: false
 tags:
-  - Social Trust
-  - Institutional Trust
+  - Trust
   - Institutional Fairness
   - Institutions
   - Multilevel Mediation
