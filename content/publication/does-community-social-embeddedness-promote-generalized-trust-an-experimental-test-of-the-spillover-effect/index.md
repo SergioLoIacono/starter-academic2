@@ -21,9 +21,9 @@ abstract: Despite the theoretical relevance attributed to the spillover effect,
 draft: false
 featured: false
 tags:
-  - Generalized trust
+  - Trust
   - Spillover effect
-  - Social connections
+  - Social networks
   - Density
   - Social cohesion
 slides: ""
