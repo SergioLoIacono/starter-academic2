@@ -33,6 +33,8 @@ email: ""
 superuser: true
 highlight_name: false
 ---
+
+
 I am a postdoctoral researcher in Sociology at Utrecht University. In my work, I investigate how we can build sustainable societies that foster cooperation, while identifying what institutional and environmental factors facilitate such an outcome. 
 
 I focus on the role of social networks, learning processes, wealth inequality, and sanctioning institutions in the emergence of trust and pro-sociality, paying particular attention to discriminated minorities and their integration in the society. 
