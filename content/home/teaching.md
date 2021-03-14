@@ -3,8 +3,7 @@ widget: experience
 active: true
 date_format: Jan 2006
 experience:
-
-  - title: Teaching assistant  “Criminology and Safety: Theories, trends, and policies” and “Doing Multidisciplinary Research”
+  - title: Teaching assistant  “Criminology and Safety. Theories, trends, and policies” and “Doing Multidisciplinary Research”
     company: Utrecht University
     company_url: "https://www.uu.nl/en/organisation/sociology"
     location: Italy
@@ -15,7 +14,7 @@ experience:
        
         * Deliver on-line lectures and classes, prepare course material, mentoring, grading - MA & BA level
 
-  - title: Teaching assistant “Foundations of social life: trust and trustworthiness”
+  - title: Teaching assistant “Foundations of social life. Trust and trustworthiness”
     company: European University Institute
     company_url: "https://www.eui.eu/ProgrammesAndFellowships/MaxWeberProgramme"
     location: Italy
