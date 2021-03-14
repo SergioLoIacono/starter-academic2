@@ -4,7 +4,7 @@ publication_types:
   - "2"
 authors:
   - admin
-  - ""
+  - T.S. Parra
 publication_short: In *Bulletin of Latin American Research*
 abstract: Children born as a result of wartime sexual violence have not gained a
   place in the stories covered by the Colombian media. Based on an extensive
@@ -58,3 +58,5 @@ publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+<div data-badge-details="right" data-badge-type="large-donut" data-doi="https://doi.org/10.1111/blar.12976" data-hide-no-mentions="true" class="altmetric-embed"></div>
