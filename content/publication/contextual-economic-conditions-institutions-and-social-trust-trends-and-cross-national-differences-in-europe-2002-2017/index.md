@@ -21,7 +21,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: null
-summary: "This article assesses the association between contextual economic conditions, institutional characteristics and social trust within and between thirty European countries. Although there is broad evidence that economic conditions affect citizens' social and political attitudes and behaviors, the link between the economy and social trust has remained understudied. This article analyzes how social trust varies both over time and across countries, looking at contextual economic conditions, institutional characteristics and their interplay as potential explanatory factors. Using eight rounds of the European Social Survey and hierarchical models, the analysis shows that social trust varies between 2002 and 2017, although large differences can be found across European countries. Over time cross-national variations in trust are only partially accounted for by contextual economic conditions when controlling for institutional characteristics."
+summary: "Published in Polis"
 url_dataset: ""
 url_project: ""
 url_source: ""
