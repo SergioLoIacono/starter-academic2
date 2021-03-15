@@ -13,7 +13,6 @@ tags:
   - Reputation 
   - Cooperation
   - Institutions
-  - Diversity
 external_link: ""
 image:
   filename: featured
