@@ -40,7 +40,7 @@ highlight_name: false
 I am a postdoctoral researcher in Sociology at Utrecht University. In my work, I investigate what institutional and ecological factors facilitate cooperation and the development of sustainable societies.
   </p>
   <p> 
-I focus on the role of social networks, learning processes, wealth (in)equality, and sanctioning institutions in the emergence of trust and pro-sociality. In doing so, I pay particular attention to discriminated minorities and how they can be more smoothly integrated in the society. 
+I focus on the role of social networks, learning processes, wealth (in)equality, and sanctioning institutions in the emergence of trust and pro-sociality. In doing so, I pay particular attention to discriminated minorities assessing how they can be more smoothly integrated in the society. 
   </p>
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_SLI.pdf" "newtab" >}}CV{{< /staticref >}}.
