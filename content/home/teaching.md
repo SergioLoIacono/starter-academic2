@@ -3,7 +3,7 @@ widget: experience
 active: true
 date_format: Jan 2006
 experience:
-  - title: Teaching assistant  “Doing Multidisciplinary Research” and “Criminology and Safety. Theories, trends, and policies”  
+  - title: Teaching assistant  “Doing Multidisciplinary Research”, “Criminology and Safety. Theories, trends, and policies”, and “Introduction to the social sciences”
     company: Utrecht University
     company_url: "https://www.uu.nl/en/organisation/sociology"
     location: Netherlands
