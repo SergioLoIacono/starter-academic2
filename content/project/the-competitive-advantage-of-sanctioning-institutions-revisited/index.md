@@ -3,7 +3,7 @@ draft: false
 active: true
 title: The competitive advantage of sanctioning institutions revisited
 subtitle: A multi-lab replication of Gürerk, Irlenbusch and Rockenbach (2006)
-  across 7 European countries.
+  across 8 European countries.
 date: 2021-03-14T10:40:54.653Z
 summary: With W. Przepiorka,  M. van Assen, V. Buskens, R. Corten, A. van de Rijt.
 featured: false
