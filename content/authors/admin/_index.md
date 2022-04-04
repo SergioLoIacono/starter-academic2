@@ -1,6 +1,6 @@
 ---
 title: Sergio Lo Iacono
-role: Postdoctoral Researcher
+role: Assistant Professor
 bio: ""
 interests:
   - Trust and Cooperation
@@ -20,7 +20,7 @@ social:
     link:  https://osf.io/gt2xe
    
 organizations:
-  - name: Utrecht University
+  - name: University of Essex
 education:
   courses:
     - course: PhD in Sociology
@@ -37,7 +37,7 @@ superuser: true
 highlight_name: false
 ---
   <p> 
-I am a postdoctoral researcher in Sociology at Utrecht University. In my work, I investigate what institutional and ecological factors facilitate cooperation and the development of sustainable societies.
+I am an Assistant Professor in Sociology at the University of Essex. In my work, I investigate what institutional and ecological factors facilitate cooperation and the development of sustainable societies.
   </p>
   <p> 
 I focus on the role of social networks, learning processes, wealth (in)equality, and sanctioning institutions in the emergence of trust and pro-sociality. In doing so, I assess how discriminated minorities can be smoothly integrated in the society. 
