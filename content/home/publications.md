@@ -2,10 +2,11 @@
 widget: portfolio
 widget_id: publications
 headless: true
-weight: 20
+headless: true
+weight: 30
 title: Publications
 subtitle: ""
- content:
+content:
   page_type: project
   filter_default: 0
   filter_button:
@@ -30,4 +31,7 @@ design:
   view: 3
   flip_alt_rows: false
   background:
+
+---
+
 ---
