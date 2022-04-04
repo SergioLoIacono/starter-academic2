@@ -1,5 +1,6 @@
 ---
 widget: experience
+active: false
 headless: true
 weight: 50
 title: Research Experience
