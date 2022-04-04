@@ -5,17 +5,29 @@ headless: true
 weight: 20
 title: Publications
 subtitle: ""
-content:
+ content:
   page_type: publication
-  count: 6
-  offset: 0
-  order: desc
-  filters:
-    tag: ""
-    category: ""
-    publication_type: ""
-    author: ""
-    exclude_featured: true
+  filter_default: 0
+  filter_button:
+    - name: All
+      tag: "*"
+    - name: Trust 
+      tag: Trust
+    - name: Cooperation
+      tag: Cooperation
+    - name: Reputation 
+      tag: Reputation
+    - name: Social Networks 
+      tag: Social Networks
+    - name: Institutions
+      tag: Institutions
+    - name: Diversity
+      tag: Diversity
+
+
 design:
-  view: 4
+  columns: "2"
+  view: 3
+  flip_alt_rows: false
+  background:
 ---
