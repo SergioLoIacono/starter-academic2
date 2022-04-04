@@ -6,7 +6,7 @@ weight: 20
 title: Publications
 subtitle: ""
  content:
-  page_type: projects
+  page_type: project
   filter_default: 0
   filter_button:
     - name: All
