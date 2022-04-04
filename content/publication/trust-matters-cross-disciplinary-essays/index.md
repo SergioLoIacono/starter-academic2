@@ -1,7 +1,7 @@
 ---
 title: Trust Matters. Cross-Disciplinary Essays
 publication_types:
-  - "2"
+  - "5"
 authors:
   - R. Barradas de Freitas
   - admin
@@ -32,7 +32,7 @@ date: 2020-11-01T00:00:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
-url_code: "https://www.bloomsbury.com/uk/trust-matters-9781509935253/"
+url_code: ""
 ---
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 <div data-badge-details="right" data-badge-type="large-donut" data-doi="https://doi.org/10.1093/esr/jcaa040" data-hide-no-mentions="true" class="altmetric-embed"></div>
