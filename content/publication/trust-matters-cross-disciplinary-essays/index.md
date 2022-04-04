@@ -26,7 +26,7 @@ url_source: ""
 url_video: ""
 author_notes: []
 doi: ""
-publication: *Bloomsbury Publishing*
+publication: In *Bloomsbury Publishing*
 projects: []
 date: 2020-11-01T00:00:00.000Z
 url_slides: ""
