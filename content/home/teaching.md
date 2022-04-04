@@ -1,6 +1,6 @@
 ---
 widget: experience
-active: true
+active: false
 date_format: Jan 2006
 experience:
   - title: Teaching assistant  “Doing multidisciplinary research”, “Criminology and safety”, and “Introduction to the social sciences”
