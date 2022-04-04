@@ -113,8 +113,9 @@ avatar:
   gravatar: false
   shape: circle
 publications:
-  date_format: January 2006
-  citation_style: apa
+  post_view: 2
+  publication_view: 2
+  talk_view: 2
 projects:
   post_view: 2
   publication_view: 2
