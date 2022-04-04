@@ -18,7 +18,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-  filename: "trust_matters_cover.jpg"
+  filename: trust_matters_cover.jpg
 summary: ""
 url_dataset: ""
 url_project: ""
