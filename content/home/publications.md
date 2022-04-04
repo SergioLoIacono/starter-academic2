@@ -1,37 +1,21 @@
 ---
-widget: portfolio
+widget: pages
 widget_id: publications
 headless: true
-headless: true
-weight: 30
+weight: 20
 title: Publications
 subtitle: ""
 content:
-  page_type: project
-  filter_default: 0
-  filter_button:
-    - name: All
-      tag: "*"
-    - name: Trust 
-      tag: Trust
-    - name: Cooperation
-      tag: Cooperation
-    - name: Reputation 
-      tag: Reputation
-    - name: Social Networks 
-      tag: Social Networks
-    - name: Institutions
-      tag: Institutions
-    - name: Diversity
-      tag: Diversity
-
-
+  page_type: publication
+  count: 6
+  offset: 0
+  order: desc
+  filters:
+    tag: ""
+    category: ""
+    publication_type: ""
+    author: ""
+    exclude_featured: true
 design:
-  columns: "2"
-  view: 3
-  flip_alt_rows: false
-  background:
-
----
-
+  view: 4
 ---
