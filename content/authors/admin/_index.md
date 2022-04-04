@@ -40,7 +40,7 @@ highlight_name: false
 I am an Assistant Professor in Sociology at the University of Essex. In my work, I investigate what institutional and ecological factors facilitate cooperation and the development of sustainable societies.
   </p>
   <p> 
-I focus on the role of social networks, learning processes, wealth (in)equality, and sanctioning institutions in the emergence of trust and pro-sociality. In doing so, I assess how discriminated minorities can be smoothly integrated in the society. 
+I focus on the role of social networks, learning processes, wealth (in)equality, and sanctioning institutions in the emergence of trust and pro-sociality. 
   </p>
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_SLI.pdf" "newtab" >}}CV{{< /staticref >}}.
