@@ -1,7 +1,7 @@
 ---
 title: Trust Matters. Cross-Disciplinary Essays
 publication_types:
-  - "5"
+  - "2"
 authors:
   - R. Barradas de Freitas
   - admin
