@@ -5,7 +5,7 @@ publication_types:
 authors:
   - R. Barradas de Freitas
   - admin
-publication_short: at *Bloomsbury Publishing*
+publication_short: In *Bloomsbury Publishing*
 abstract: "This book examines the role of trust in public life. It seeks to contribute to a more nuanced understanding of certain fundamental concepts in political and legal theory, such as the concepts of authority, power, social practice, the rule of law, and justice by furnishing and sharpening our concepts of trust and trustworthiness. Bringing together contributors from across the social, cognitive, historical, and political sciences, the book opens up inquiries into central concepts in legal theory as well as new approaches and methodologies. The interdisciplinary contributions analyse the notions of trust, trustworthiness, and distrust and apply them to address a variety of problems and questions."
 draft: false
 featured: false
@@ -26,7 +26,7 @@ url_source: ""
 url_video: ""
 author_notes: []
 doi: ""
-publication: At *Bloomsbury Publishing*
+publication: In *Bloomsbury Publishing*
 projects: []
 date: 2021-12-01T00:00:00.000Z
 url_slides: ""
