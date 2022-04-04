@@ -22,11 +22,11 @@ image:
 summary: ""
 url_dataset: ""
 url_project: ""
-url_source: ""
+url_source: "https://www.bloomsbury.com/uk/trust-matters-9781509935253/"
 url_video: ""
 author_notes: []
-doi: "https://www.bloomsbury.com/uk/trust-matters-9781509935253/"
-publication: In *Bloomsbury Publishing*
+doi: ""
+publication: At *Bloomsbury Publishing*
 projects: []
 date: 2021-12-01T00:00:00.000Z
 url_slides: ""
