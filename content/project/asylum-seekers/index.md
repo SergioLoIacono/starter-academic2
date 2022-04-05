@@ -1,6 +1,6 @@
 ---
 draft: false
-active: true
+active: false
 title: "Gated information and sentiments towards asylum seekers"
 subtitle: Investigating factual information and public preferences for asylum seekers
 date: 2021-03-14T11:50:11.386Z
